@@ -1,0 +1,96 @@
+.fourth-section {
+
+  font-family: layregular;
+}
+.fourth-section h1 {
+  padding: 1rem;
+}
+
+.fourth-section {
+  padding: 3rem;
+  font-family: layregular;
+}
+.pm-btn{
+  border: none;
+  font-size: 1.5rem;
+  padding: .5rem 2rem ;
+}
+
+.top-btn{
+  justify-content: center;
+  display: flex;
+  gap: 5rem !important;
+}
+
+.top-btn :hover{
+  background-color: #3bd28c;
+}
+
+#t-c{
+  text-align: center;
+}
+
+.off {
+  width: 5rem;
+  font-size: 1rem;
+  background-color: #e1fff1;
+  color: #3bd28c;
+  font-size: 0.8rem;
+  border-radius: 1.69rem;
+  padding: 0.5rem;
+}
+
+.off:hover {
+  background-color: green;
+}
+
+.add-card {
+  background-color: #ffbb44;
+  color: #fff;
+  padding: 0.2rem 0.5rem;
+  border-radius: 1.69rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  gap: 0.5rem;
+}
+
+.add-card:hover{
+  background-color: green;
+
+}
+
+.img-2 {
+  width: 13.5rem;
+}
+
+.prodects {
+  display: flex;
+  justify-content: space-between;
+}
+
+.prodects-1 {
+  width: 18 rem;
+  margin-top: 5rem;
+  border: 1px solid;
+  box-shadow: 0px 10px 30px #00000008;
+  gap: 0.5rem;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: space-between;
+  cursor: pointer;
+  transition: all .2s ease-in-out;
+}
+
+.fruit-text {
+  color: #3bd28c;
+}
+
+.main-cart{
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
